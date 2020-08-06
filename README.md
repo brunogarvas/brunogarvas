@@ -1,7 +1,5 @@
 ### Backend Developer. Systems Analyst. Java Certified Professional. Web Researcher. Blogger.
 
-Post-Graduated on Tecnologies of Information with emphasis in Developer of Web Systems (SENAC-SP)
-
 Oracle Certified Expert, Java EE 6 JavaServer Faces Developer (OCJSF)
 
 Sun Certified Web Component Developer for the Java Platform, Enterprise Edition (SCWCD)
@@ -11,6 +9,8 @@ Sun Certified Programmer for the Java Platform, Standard Edition 6 (SCJP)
 Sun Certified Java Associate for the Java Platform, Standard Edition (SCJA)
 
 Cambridge First Certified in English (FCE)
+
+Post-Graduated on Tecnologies of Information with emphasis in Developer of Web Systems (SENAC-SP)
 
 Graduated on Telecommunications with Computer Science (Federal Center of Technological - IFCE)
 
